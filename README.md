@@ -4,7 +4,7 @@
 
 <p align = "justify">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Fabiana_Lucena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiana-lucena)](https://www.linkedin.com/in/fabiana-lucena)
+  [![Linkedin Badge](https://img.shields.io/badge/-Fabiana_Lucena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fbn-lucena/)](https://www.linkedin.com/in/fbn-lucena/)
   [![Gmail Badge](https://img.shields.io/badge/-lucena.fbn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucena.fbn@gmail.com)](mailto:lucena.fbn@gmail.com)
 
 </p>
